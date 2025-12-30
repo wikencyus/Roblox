@@ -169,7 +169,7 @@ local labelSize = UDim2.new(1, 0, 0.1, 0)
 
 local gazeLabel = Instance.new("TextLabel")
 gazeLabel.Name = "GazeLabel"
-gazeLabel.Text = "GAZE"
+gazeLabel.Text = " A"
 gazeLabel.Font = Enum.Font.SourceSansBold
 gazeLabel.TextScaled = true
 gazeLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
